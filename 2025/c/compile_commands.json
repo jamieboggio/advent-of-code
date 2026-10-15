@@ -1,0 +1,19 @@
+[
+  {
+    "file": "day1.c",
+    "arguments": [
+      "cc",
+      "-std=c23",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wshadow",
+      "-o",
+      "main",
+      "day1.c"
+    ],
+    "directory": "/home/jrb/learning/advent-of-code/2025/c",
+    "output": "main"
+  }
+]
